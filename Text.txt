@@ -1,3 +1,4 @@
-Predicting student performance is important for universities. Thus, they can identify students who need support and take measures to improve educational outcomes.
-The paper presents analyze of the results of a study conducted at the Trakia University of Stara Zagora. The study aims to identify the most significant features that affect student performance and to select the most efficient machine-learning algorithm to predict their performance.
-The efficiency of four classification algorithms was compared-BayesNet (BN), Multilayer Perceptron (MLP), Sequential minimal optimization (SMO) and Decision tree (J48). For comparison, the indicators TP Rate, Precision, F-Measure, Accuracy and error measures-MAE, RMSE, RAE, and RRSE were used. The processing is done with Weka open-source software. The obtained results show that the MLP algorithm is the best for the used data. The obtained accuracy is sufficient to create an effective forecast model. 12 attributes have been identified that have the greatest impact on student performance.
+
+Live ML anywhere
+
+MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
